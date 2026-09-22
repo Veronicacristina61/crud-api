@@ -1,6 +1,6 @@
+
 👥 Equipe de Desenvolvimento
 Verônica
-
 Andersson
 
 🛠️ Tecnologias Utilizadas
